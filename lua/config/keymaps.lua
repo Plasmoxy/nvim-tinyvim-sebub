@@ -197,3 +197,6 @@ keymap(
 -- Disable lazyterm keymaps, use toggleterm keymaps instead
 vim.api.nvim_del_keymap("n", "<leader>ft")
 vim.api.nvim_del_keymap("n", "<leader>fT")
+
+-- Sebubub aditional
+vim.keymap.set('n', 'ss', ':w<CR>', { noremap = true, silent = true })
