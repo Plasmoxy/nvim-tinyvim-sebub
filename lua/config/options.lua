@@ -8,6 +8,7 @@ end
 
 
 vim.o.spell = false
+vim.o.cursorline = false
 
 -- Set conceal level to 0
 vim.o.conceallevel = 0

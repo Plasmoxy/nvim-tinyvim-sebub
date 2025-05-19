@@ -24,7 +24,11 @@ return {
               -- sel1 = "#4f6074", -- Popup sel bg, search bg
               
               -- change the color of cursor line to be the same as the background
-              bg3 = "#000000", -- Cursor line bg
+              -- bg0 = "#0f191a",
+              -- bg1 = "#152223",
+              -- bg2 = "#1d2f30",
+              -- bg3 = "#0f191a",
+              -- bg4 = "#2d494c",
             },
           },
           specs = {
